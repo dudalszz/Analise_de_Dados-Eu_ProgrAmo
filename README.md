@@ -1,7 +1,7 @@
 Análise de Dados - Diversidade no Setor de TI (2022) 📊
 
 Este repositório contém um projeto utilizando Python e algumas bibliotecas como Pandas. O objetivo será focar em temas relevantes da área de TI, como diversidade e análise de dados.
-
+---
 
 Análise de Dados - Diversidade no Setor de TI (2022) 📝
 Arquivo: analise_dados.ipynb
