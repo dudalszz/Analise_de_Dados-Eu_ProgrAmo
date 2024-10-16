@@ -1,5 +1,5 @@
 
-Dados
+ Estudo de Dados 📊
 --
 Este repositório contém um projeto utilizando Python e algumas bibliotecas como Pandas. O objetivo será focar em temas importantes que possuem relevância da área de TI, como diversidade e análise de dados.
 
@@ -27,10 +27,11 @@ Este notebook realiza uma análise mais avançada, aplicando técnicas de Regres
 A A análise oferece uma compreensão mais profunda sobre como esses fatores se conectam e influenciam a distribuição salarial no mercado de TI.
 
 
-Ferramentas Utilizadas 🛠️
+Recursos Utilizados 
 ---
 
 - Python
 - Pandas
 - Jupyter Notebooks
 - Regressão Linear
+- Machine Learning
