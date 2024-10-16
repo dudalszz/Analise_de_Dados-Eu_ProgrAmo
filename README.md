@@ -1,7 +1,7 @@
 
  Estudo de Dados 📊
 --
-Este repositório contém um projeto utilizando Python e algumas bibliotecas como Pandas. Esse projeto também utiliza um pouco de feature engineering para aprimorar os dados brutos em possíveis algoritmos de machine learning. O objetivo será focar em temas importantes que possuem relevância da área de TI, como diversidade e análise de dados. 
+Este repositório contém um projeto utilizando Python e algumas bibliotecas como Pandas. Esse projeto também utiliza um pouco de feature engineering para aprimorar os dados brutos em possíveis algoritmos de machine learning, onde finalizaremos a análise usando um modelo de regressão linear. O objetivo será focar em temas importantes que possuem relevância da área de TI, como diversidade e análise de dados. 
 
 
 Análise de Dados - Diversidade no Setor de TI (2022) 
@@ -18,7 +18,7 @@ Regressão Linear - Análise de Salários e Diversidade
 ---
 Arquivo: `regressao_linear.ipynb`
 
-Este notebook realiza uma análise mais avançada, aplicando técnicas de Regressão Linear para correlacionar dados, como:
+Este notebook realiza uma análise mais avançada, aplicando técnicas de Regressão Linear para correlacionar e predizer dados, como:
 
 - Relação entre gênero e remuneração
 - O impacto da etnia e da localização geográfica nos salários
@@ -34,4 +34,3 @@ Recursos Utilizados
 - Pandas
 - Jupyter Notebooks
 - Regressão Linear
-- Machine Learning
