@@ -1,7 +1,7 @@
 
  Estudo de Dados 📊
 --
-Este repositório contém um projeto utilizando Python e algumas bibliotecas como Pandas. O objetivo será focar em temas importantes que possuem relevância da área de TI, como diversidade e análise de dados.
+Este repositório contém um projeto utilizando Python e algumas bibliotecas como Pandas. Esse projeto também utiliza um pouco de feature engineering para aprimorar os dados brutos em possíveis algoritmos de machine learning. O objetivo será focar em temas importantes que possuem relevância da área de TI, como diversidade e análise de dados. 
 
 
 Análise de Dados - Diversidade no Setor de TI (2022) 
