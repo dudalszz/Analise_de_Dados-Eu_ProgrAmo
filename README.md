@@ -24,7 +24,7 @@ Este notebook realiza uma análise mais avançada, aplicando técnicas de Regres
 - O impacto da etnia e da localização geográfica nos salários
 - Comparação de diferentes grupos dentro do setor de tecnologia
 
-A A análise oferece uma compreensão mais profunda sobre como esses fatores se conectam e influenciam a distribuição salarial no mercado de TI.
+A análise oferece uma compreensão mais profunda sobre como esses fatores se conectam e influenciam a distribuição salarial no mercado de TI.
 
 
 Recursos Utilizados 
